@@ -1,0 +1,10 @@
+a = int(input("Enter an integer: "))
+b = int(input("Enter an integer: "))
+
+print("Their sum: " + str(a + b))
+print("Their difference: " + str(a - b))
+print("Their product: " + str(a * b))
+print("Their division: " + str(a / b))
+print("Their quotient: " + str(a // b))
+print("Their remainder: " + str(a % b))
+print("Their power: " + str(a ** b))
